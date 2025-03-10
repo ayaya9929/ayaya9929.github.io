@@ -1,0 +1,43 @@
+body{
+    font-family: sans-serif;
+    background-color: darkred;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.small{
+    text-align: center;
+    display: inline-block;
+    margin: auto;
+    border: 2px solid black;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    border-radius: 10px;
+    width: 100%;
+    align-content: center;
+    justify-items: center;
+}
+
+h1{
+    text-align: center;
+    color: red;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    font-size: 50;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    -webkit-text-stroke-width: 2;
+    -webkit-text-stroke-color: black;
+    font-size: 30;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 300px;
+}
